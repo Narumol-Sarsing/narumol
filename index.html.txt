@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Narumol Sarasing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pattaya&display=swap" rel="stylesheet">
+</head>
+
+
+<style>
+  body h1,
+  h2,
+  h3,
+  h4 {
+    color:3b2749;
+  }
+</style>
+
+<body style="background-color:#FAF6E3;">
+
+    <style>
+        
+      body {
+          color: #4B4376(38, 47, 97):
+      }
+
+  <h1>สวัสดีค่ะ</h1>
+  <h2>=ชื่อ นางสาว นฤมล สารสิงห์</h2>
+  <h3>ชื่อเล่น ครีม</h3>
+  <h4>รหัสนักศึกษา 466420241057</h4>
+  
+  <!-- about us-->
+  <p>กำลังศึกษาอยู่ที่มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ ศูนย์หันตรา คณะวิทยาศาสตร์และเทคโนโลยี สาขาเทคโนโลยีมัลติมิเดีย </p>
+  <p1>ชอบฟังเพลงเป็นส่วนใหญ่</p1>
+  <p2>ขอบคุณค่ะ</p2>
+
+  <p>
+    <a href="https://youtu.be/roughtzsCDI?si=75tztJzpVUXaLAXI" target="_blank">
+      <button>Click here</button>
+    </a>
+  </p>
+
+  <img src="IMG_3714.png" alt="IMG_3714.png" style="width: 300px; height: auto;">
+
+</body>
+
+</html>
